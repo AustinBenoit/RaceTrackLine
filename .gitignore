@@ -31,3 +31,9 @@
 *.out
 *.app
 *.test
+
+#emacs
+*~
+
+#MacOSX
+.DS_Store
